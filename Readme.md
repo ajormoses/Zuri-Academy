@@ -1,6 +1,6 @@
 # ZURI ACADEMY
 
-### My name is Ajor Moses, I'm a intern at Zuri Academy, this is my repository containing all the task assignment in the academy.
+### My name is Ajor Moses, I'm an intern at Zuri Academy, this is my repository containing all the task assignment in the academy.
 
 ![Write a javascript code that prints out your name, height, and country on the screen](./Tasks/task3.JPG)
 
