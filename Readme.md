@@ -4,11 +4,17 @@
 
 ![Write a javascript code that prints out your name, height, and country on the screen](./Tasks/task3.JPG)
 
-### Write a javascript code that prints out your name, height, and country on the screen
+### 1. Write a javascript code that prints out your name, height, and country on the screen
 
 (a) Solution link of task assessment: [ https://replit.com/@ajormoses/StandardWateryCompiler ]
 
 (b) Live link of task assessment: [ https://StandardWateryCompiler.ajormoses.repl.co ]
+
+![Build a basic arithmetic calculator without a frontend](./Tasks/calculator.JPG)
+
+### 2. Build a basic arithmetic calculator without a frontend (The calculator should be able to perform basic operations like Addition, Subtraction, Multiplication, & Division)
+
+(a) Solution link of task assessment: [ https://replit.com/@ajormoses/zuri-calculator ]
 
 ### Author
 
